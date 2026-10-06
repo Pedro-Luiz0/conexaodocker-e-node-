@@ -1,0 +1,28 @@
+{
+  "name": "conexaodocker-e-node-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-Luiz0/conexaodocker-e-node-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Pedro-Luiz0/conexaodocker-e-node-/issues"
+  },
+  "homepage": "https://github.com/Pedro-Luiz0/conexaodocker-e-node-#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.24.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
